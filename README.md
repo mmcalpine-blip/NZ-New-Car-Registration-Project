@@ -1,0 +1,1 @@
+The car registrations file is a download of new car registrations in New Zealand from January 2021 to December 2025.  The data was downloaded from the NZTA - New Zealand Transport Agency. The file holds data organised by make, model, motive power, month and year of registration, postal code, personal or company vehicle and a few other data points.
